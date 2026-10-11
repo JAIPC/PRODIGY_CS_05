@@ -1,0 +1,23 @@
+--------------------------------
+Packet Captured
+--------------------------------
+Source IP      : 140.82.113.22
+Destination IP : 192.168.0.105
+Protocol       : TCP
+Payload Preview: b'\x17\x03\x03\x00"\xdc\x01a\xd8\xb9m\x86\xc7Z_\x839\xb6\xf4\xe0\xd2\xcf\x950\xcb\xdf\x0c\xc0\xb4C6\x97\x84*\xa3\xb7\x8f\xa9\x93'
+
+--------------------------------
+Packet Captured
+--------------------------------
+Source IP      : 4.150.223.100
+Destination IP : 192.168.0.105
+Protocol       : TCP
+Payload        : No application payload
+
+--------------------------------
+Packet Captured
+--------------------------------
+Source IP      : 192.168.0.105
+Destination IP : 140.82.113.22
+Protocol       : TCP
+Payload        : No application payload
